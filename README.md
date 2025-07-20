@@ -1,4 +1,4 @@
-# desicoder
+#Desicoder
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -172,7 +172,7 @@
         <section class="bg-transparent -mt-32 pb-32 text-center relative z-10">
              <div class="max-w-4xl mx-auto px-10">
                 <h2 data-lang-key="hero_title" class="text-4xl md:text-5xl font-black leading-tight">
-                    Learn to Code with AI, in Hindi & English
+                    Learn to Code with AI, in Native
                 </h2>
                 <div class="mt-8 flex flex-col sm:flex-row gap-4 justify-center">
                     <button data-lang-key="btn_start_learning" class="bg-accent-color text-white font-bold py-4 px-10 rounded-full text-lg hover:scale-105 transition-transform">
@@ -310,7 +310,7 @@
                 nav_community: "Community",
                 btn_signup: "Sign Up",
                 drag_instruction: "Click and Drag to Rotate",
-                hero_title: "Learn to Code with AI, in Hindi & English",
+                hero_title: "Learn to Code with AI, in  Native",
                 btn_start_learning: "Start Learning",
                 btn_explore_paths: "Explore Career Paths",
                 demo_title: "Experience the Magic",
